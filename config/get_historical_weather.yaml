@@ -1,0 +1,11 @@
+# ISO format, YYYY-MM-DD
+start_date: '2022-01-01'
+end_date: '2024-06-01'
+selected_airports:    # IATA codes
+  MUC:
+    latitude: 48.3536621
+    longitude: 11.775027899999941
+export_parent_path: 'data/historical'  # relative path to the repo
+#  - KATL
+#  - KSEA
+#  - LEBL
